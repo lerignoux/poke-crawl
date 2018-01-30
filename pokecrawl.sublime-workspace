@@ -1,0 +1,1434 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"unknown",
+				"unknwon_schedule_blacklist"
+			],
+			[
+				"port",
+				"server_port"
+			],
+			[
+				"host",
+				"host"
+			],
+			[
+				"self",
+				"self"
+			],
+			[
+				"schedule",
+				"schedule"
+			],
+			[
+				"false",
+				"false"
+			],
+			[
+				"md",
+				"md-chips"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"cancels",
+				"cancels"
+			],
+			[
+				"updates",
+				"updates"
+			],
+			[
+				"off",
+				"off_time_fetching"
+			],
+			[
+				"now",
+				"now"
+			],
+			[
+				"Settings",
+				"Settings"
+			],
+			[
+				"service",
+				"service"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"since",
+				"since"
+			],
+			[
+				"Workflo",
+				"WorkflowRecursionError"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"log",
+				"log"
+			],
+			[
+				"rate",
+				"rate"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"S",
+				"s"
+			],
+			[
+				"config",
+				"config"
+			],
+			[
+				"ceaned",
+				"cleaned_data"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pgoapi/pokecli.py",
+			"settings":
+			{
+				"buffer_size": 55919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/web/main.js",
+			"settings":
+			{
+				"buffer_size": 1750,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Package Control Messages\n========================\n\nAnaconda\n--------\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.0.6\n  ===============\n  \n  This is a minor bug fix release\n  \n  ## Fixes\n  \n      - Fix strange behaviour when mypy is being used as a library, resolves #521\n      - Increased timeouts for first local worker connection hopefully resolves #514\n  \n  ## Additions\n  \n      - Added new configuration option `mypy_suppress_stub_warnings` that does exactly what it's name indicates\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.0.5\n  ===============\n  \n  This is a minor bug fix release\n  \n  ## Fixes\n    - Fixed wrong import in minserver.py\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  Anaconda v2.0.4\n  ===============\n  \n  This is a minor bug fix release\n  \n  ## Fixes\n    - Fix for Unix Domain Sockets longer than 103 characters, #519\n    - Fix for wrong linting lines on import validation, #337\n\n  |\n                _` |  __     _` |   __|   _    __     _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              __,_| _|  _| __,_| ___| ___/  _|  _| __,_| __,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  \n  Anaconda v2.0.0\n  ===============\n  Small bugfix release\n  \n  ## Fixes\n      - Resolves unicode problem reported in #513\n      - Hopefully resolves #514 in slow machines\n\n  \n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  \n  Anaconda v2.0.1\n  ===============\n  \n  Small typo fix in a function call in anaconda_lib/helper.py\n\n  |                                                                                                    \n                _` |  __     _` |   __|   _    __     _` |   _` |                                                                                             \n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |                                                                                             \n              __,_| _|  _| __,_| ___| ___/  _|  _| __,_| __,_|                                                                                             \n                                       The Sublime Text 3 Python IDE                                                                                             \n                                                                                                                                                                 \n                                                                                                                                                                 \n                                                                                                                                                                 \n  Anaconda v2.0.1                                                                                                                                                \n  ===============                                                                                                                                                \n                                                                                                                                                                 \n  This version is just to downgrade Jedi as it was breaking PyPy3 and our travis was going crazy\n\n  \n                                                            |\n                _` |  __ \\    _` |   __|   _ \\   __ \\    _` |   _` |\n               (   |  |   |  (   |  (     (   |  |   |  (   |  (   |\n              \\__,_| _|  _| \\__,_| \\___| \\___/  _|  _| \\__,_| \\__,_|\n                                       The Sublime Text 3 Python IDE\n  \n  \n  \n  Anaconda v2.0.0\n  ===============\n  \n  This is the new major release of AnacondaST3 Python IDE. Many things had been\n  changed, rewritten and/or redesigned for this release.\n  \n  Redesigns\n  =========\n  \n  This is a non exhaustive list of the redesigns for the package\n  \n  ### Refactor\n  \n  Some parts of the package had been refactored and MyPy annotations had been\n  added to all the runtime (part of the package that runs in ST3 context) python\n  files.\n  \n  ### Workers\n  \n  The anaconda's workers (workers are objects that get a request from the ST3\n  events system and send it using an asynchronous custom JSON TCP protocol client\n  to the anaconda's `jsonserver` for processing and register callbacks that get\n  fired when a response is received or on a timeout) have been completely\n  redesigned and rewritten to support remote anaconda servers running in a\n  different machine than the ST3 application is running itself.\n  \n  The change above allow us to connect anaconda's ST3 runtime with any anaconda's\n  `jsonserver` (`minserver` really) over any TCP connection that makes possible\n  to support a new `Docker` worker and improve the already existent `Vagrant`\n  worker.\n  \n  The worker-client architecture has been improved in order to minimize ST3\n  slowdowns when there is some problem with the `jsonserver` or with the\n  configured `python_interpreter`.\n  \n  ### The `python_interpreter` and `vagrant` settings\n  \n  In anaconda v1.x the user had to enable the vagrant support and provide an\n  additional vagrant configuration in order to connect to a remote anaconda's\n  `jsonserver`, even that way of work with Vagrant is already supported, it is\n  deprecated and will be removed from the package in future releases, the\n  suggested way to work with Vagrant or any other remote worker now is setting\n  the `python_interpreter` to the right value.\n  \n  For example, in order to connect the AnacondaST3 IDE into a Vagrant worker we\n  could just configure our `python_interpreter` option as:\n  \n      `\"python_interpreter\": \"vagrant://default:19360?network=forwarded\"`\n  \n  That will connect the ST3 anaconda's runtime to the `default` vagrant VM into\n  the `19360` port using a forwarded network topology invoking the system `python`\n  that is in the Vagrant's VM `$PATH`.\n  \n  For more info visit: https://github.com/DamnWidget/anaconda/wiki/Anaconda-v2:-Using-a-remote-python-interpreter-through-Vagrant\n  \n  *Note*: the `vagrant` branch is also deprecated and is not gonna be maintained\n  any more as it is not needed for anaconda v2\n  \n  A very similar configuration can be used to connect to server running in for\n  example a development machine in AWS\n  \n      `\"python_interpreter\": \"tcp://your_domain.com:9999\"`\n  \n  That will connect the anaconda's runtime into a remote server running in\n  `your_domain.com` in the port `9999`\n  \n  More info: https://github.com/DamnWidget/anaconda/wiki/Anaconda-v2:-Using-a-remote-python-interpreter\n  \n  ### UNIX Domain Sockets on Posix Platforms\n  \n  Starting from v2.0.0 anaconda connects to the `jsonserver` trough a UNIX Domain\n  Socket instead of a regular TCP/IP connection when a local worker (local\n  python interpreter running in the same machine than ST3 is running in) is used.\n  \n  ### Deadcode\n  \n  Some deadcode has been removed.\n  \n  New Features\n  ============\n  \n  This is a non exhaustive list of the major new features in anaconda v2.0.0\n  \n  ### Docker Support\n  \n  This was most voted up feature requests in the package's history and now is\n  here to stay.\n  \n  Use a python interpreter running in a Docker container is as simple as configure\n  the right `python_interpreter` it is very like the examples that we already\n  show above.\n  \n  More info: https://github.com/DamnWidget/anaconda/wiki/Anaconda-v2:-Using-a-remote-python-interpreter-through-Docker\n  \n  ### MyPy Support\n  \n  MyPy is now supported as linter, it is disabled by default and can be enabled\n  and configured trough the `mypy` family settings in the configuration file. To\n  enable `mypy` linting just set `mypy` as `true` in any level of your\n  configuration.\n  \n  Please, refer to the Anaconda's configuration file to get a complete list of\n  the MyPy linting options available in anaconda.\n  \n  ### Improved Logging Locations\n  \n  Anaconda v2 doesn't use Jedi's cache directory for logging purposes anymore now\n  the log files under the following paths in each platform:\n  \n      * GNU/Linux: ~/.local/share/anaconda/logs\n      * OS X: ~/Library/Logs/anaconda\n      * Windows: %APPDATA%\\\\Anaconda\\\\Logs\n  \n  ### Updates\n  \n  Jedi has been updated to v0.10.0 (commmit 8a34481e8cbda862f9c0c2a33995ccbebe85897e)\n  that will solve some autocompletion problems.\n  \n  ### Final Notes\n  \n  There is lots of small fixes, bug fixes and other changes that probably worth\n  a mention in this version notes but I am too lazy to do so forgive me.\n",
+			"settings":
+			{
+				"buffer_size": 9809,
+				"line_ending": "Unix",
+				"name": "Package Control Messages",
+				"read_only": true,
+				"scratch": true
+			}
+		},
+		{
+			"file": "pokecrawl/test.py",
+			"settings":
+			{
+				"buffer_size": 1215,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/web/points.json",
+			"settings":
+			{
+				"buffer_size": 2,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/web/result.json",
+			"settings":
+			{
+				"buffer_size": 26117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/requirements.txt",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Unix",
+				"name": "pip install git+https://github.com/tejado/pgoapi"
+			}
+		},
+		{
+			"file": "pokecrawl/pokecrawl.py",
+			"settings":
+			{
+				"buffer_size": 4745,
+				"line_ending": "Unix",
+				"name": "pokecrawl.py"
+			}
+		},
+		{
+			"file": "pokecrawl/README.md",
+			"settings":
+			{
+				"buffer_size": 288,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl.sublime-project",
+			"settings":
+			{
+				"buffer_size": 504,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/laurent/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/conf.json",
+			"settings":
+			{
+				"buffer_size": 80,
+				"line_ending": "Unix",
+				"name": "{"
+			}
+		},
+		{
+			"file": "pokecrawl/pokemon.py",
+			"settings":
+			{
+				"buffer_size": 48655,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "{\n  \"Latitude\": 48.8439621,\n  \"Longitude\": 2.3595996,\n  \"Pokemons\": [\n    {\n      \"Classification\": \"Mouse Pok\\u00e8mon\",\n      \"EncounterId\": 2052255838046936781,\n      \"Expiration\": 1469227476388,\n      \"Fast Attack(s)\": [\n        \"Bite\",\n        \"Quick Attack\"\n      ],\n      \"Height\": \"0.7 m\",\n      \"LastModified\": 1469226607494,\n      \"Latitude\": 48.84378284164822,\n      \"Longitude\": 2.3587504764480935,\n      \"Name\": \"Raticate\",\n      \"Number\": \"020\",\n      \"Previous evolution(s)\": [\n        {\n          \"Name\": \"Rattata\",\n          \"Number\": \"019\"\n        }\n      ],\n      \"Special Attack(s)\": [\n        \"Dig\",\n        \"Hyper Beam\",\n        \"Hyper Fang\"\n      ],\n      \"Type I\": [\n        \"Normal\"\n      ],a\n      \"Weaknesses\": [\n        \"Fighting\"\n      ],\n      \"Weight\": \"18.5 kg\"\n    },\n    {\n      \"Classification\": \"Bat Pok\\u00e8mon\",\n      \"EncounterId\": 12813213728252729213,\n      \"Expiration\": 1469226653236,\n      \"Fast Attack(s)\": [\n        \"Bite\",\n        \"Wing Attack\"\n      ],\n      \"Height\": \"1.6 m\",\n      \"LastModified\": 1469226607494,\n      \"Latitude\": 48.84400585700154,\n      \"Longitude\": 2.359383675673902,\n      \"Name\": \"Golbat\",\n      \"Number\": \"042\",\n      \"Previous evolution(s)\": [\n        {\n          \"Name\": \"Zubat\",\n          \"Number\": \"041\"\n        }\n      ],\n      \"Type I\": [\n        \"Poison\"\n      ],\n      \"Type II\": [\n        \"Flying\"\n      ],\n      \"Weaknesses\": [\n        \"Electric\",\n        \"Ice\",\n        \"Psychic\",\n        \"Rock\"\n      ],\n      \"Weight\": \"55.0 kg\"\n    },\n    {\n      \"Classification\": \"Mouse Pok\\u00e8mon\",\n      \"EncounterId\": 2052255838046936781,\n      \"Expiration\": 1469227476388,\n      \"Fast Attack(s)\": [\n        \"Bite\",\n        \"Quick Attack\"\n      ],\n      \"Height\": \"0.7 m\",\n      \"LastModified\": 1469226607494,\n      \"Latitude\": 48.84378284164822,\n      \"Longitude\": 2.3587504764480935,\n      \"Name\": \"Raticate\",\n      \"Number\": \"020\",\n      \"Previous evolution(s)\": [\n        {\n          \"Name\": \"Rattata\",\n          \"Number\": \"019\"\n        }\n      ],\n      \"Special Attack(s)\": [\n        \"Dig\",\n        \"Hyper Beam\",\n        \"Hyper Fang\"\n      ],\n      \"Type I\": [\n        \"Normal\"\n      ],\n      \"Weaknesses\": [\n        \"Fighting\"\n      ],\n      \"Weight\": \"18.5 kg\"\n    },\n    {\n      \"Classification\": \"Bat Pok\\u00e8mon\",\n      \"EncounterId\": 12813213728252729213,\n      \"Expiration\": 1469226653236,\n      \"Fast Attack(s)\": [\n        \"Bite\",\n        \"Wing Attack\"\n      ],\n      \"Height\": \"1.6 m\",\n      \"LastModified\": 1469226607494,\n      \"Latitude\": 48.84400585700154,\n      \"Longitude\": 2.359383675673902,\n      \"Name\": \"Golbat\",\n      \"Number\": \"042\",\n      \"Previous evolution(s)\": [\n        {\n          \"Name\": \"Zubat\",\n          \"Number\": \"041\"\n        }\n      ],\n      \"Type I\": [\n        \"Poison\"\n      ],\n      \"Type II\": [\n        \"Flying\"\n      ],\n      \"Weaknesses\": [\n        \"Electric\",\n        \"Ice\",\n        \"Psychic\",\n        \"Rock\"\n      ],\n      \"Weight\": \"55.0 kg\"\n    }\n  ]\n}",
+			"file": "pokecrawl/result.json",
+			"file_size": 2978,
+			"file_write_time": 131137002078387436,
+			"settings":
+			{
+				"buffer_size": 2979,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/.gitignore",
+			"settings":
+			{
+				"buffer_size": 1096,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pokecrawl/cell_handler.py",
+			"settings":
+			{
+				"buffer_size": 538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pgoapi/config.json.example",
+			"settings":
+			{
+				"buffer_size": 130,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 245.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package ress",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"contro",
+				"Package Control: Remove Channel"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packe",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Enable Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 475.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/laurent/Projects/PokeCrawl/pokecrawl/web"
+	],
+	"file_history":
+	[
+		"/home/laurent/Projects/PokeCrawl/pgoapi/cell_5180953715196035072",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/auth_google.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/auth_ptc.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/exceptions.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/pgoapi.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/protos/POGOProtos/Settings_pb2.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/protobuf_to_dict.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/rpc_api.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi/utilities.py",
+		"/home/laurent/Projects/PokeCrawl/pgoapi/test1",
+		"/home/laurent/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/services/workflow-service.js",
+		"/home/laurent/Optiflows/src/nyuki-twilio/default.json",
+		"/home/laurent/Optiflows/src/nyuki-infobip/api.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/swagger.json",
+		"/home/laurent/Optiflows/src/nyuki-hlseven/protocol/entities/message.py",
+		"/home/laurent/Optiflows/src/wings-workflow/README.md",
+		"/home/laurent/Optiflows/src/wings-idshost/README.md",
+		"/home/laurent/Optiflows/src/nyuki-idshost/tests/idshost_test.py",
+		"/home/laurent/Optiflows/src/nyuki-thecallr/README.md",
+		"/home/laurent/Optiflows/src/nyuki-thecallr/default.json",
+		"/home/laurent/Optiflows/src/nyuki-swagger/README.md",
+		"/home/laurent/Optiflows/src/nyuki-auth/README.md",
+		"/home/laurent/Optiflows/src/nyuki-hlseven/README.md",
+		"/home/laurent/Optiflows/src/nyuki-dashboard/README.md",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/README.md",
+		"/home/laurent/Optiflows/src/nyuki-workflow/README.md",
+		"/home/laurent/Optiflows/src/nyuki-infobip/README.md",
+		"/home/laurent/Optiflows/src/nyuki-twilio/twilio_nyuki.py",
+		"/home/laurent/Optiflows/src/nyuki-twilio/README.md",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/workflow/workflow-list-controller.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/services/nyukis-service.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/lookup-controller.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/workflow/workflow-controller.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/lookup.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/regex/regex.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/workflow/popupAddWorkflow.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/status-side-nav.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/workflow/workflow.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/services/wf-nav-service.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/services/regex-service.js",
+		"/home/laurent/Optiflows/src/wings-workflow/app/i18n/locale_fr-fr.json",
+		"/home/laurent/Optiflows/src/wings-workflow/app/index.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/i18n/locale_en-gb.json",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/templates/workflow/workflow-list.html",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/workflow.js",
+		"/home/laurent/Optiflows/src/nyuki-twilio/tests/gather_task_test.py",
+		"/home/laurent/Optiflows/src/nyuki/nyuki/workflow/validation.py",
+		"/home/laurent/Optiflows/src/nyuki-twilio/twilio_tasks/gather_task.py",
+		"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts/header-controller.js",
+		"/home/laurent/Optiflows/src/nyuki-twilio/twilio_tasks/twilio_task.py",
+		"/home/laurent/Optiflows/src/nyuki-twilio/tests/play_task_test.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/workflow.py",
+		"/home/laurent/Optiflows/src/nyuki-workflow/workflow.py",
+		"/home/laurent/Optiflows/src/nyuki-telephony/twilio_nyuki.py",
+		"/home/laurent/Optiflows/src/nyuki-telephony/twilio_call.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/task/join.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/task/__init__.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/__init__.py",
+		"/home/laurent/Optiflows/src/nyuki-workflow/tasks/join.py",
+		"/home/laurent/Optiflows/src/nyuki-workflow/tasks/__init__.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/task/task.py",
+		"/home/laurent/Optiflows/src/tukio/tukio/task/template.py",
+		"/home/laurent/Optiflows/src/wings-components/lib/services/popup-dialog/src/templates/popup-dialog.html",
+		"/home/laurent/Optiflows/src/wings-components/lib/services/popup-dialog/src/popup-dialog-controller.js",
+		"/home/laurent/Optiflows/src/wings-components/lib/services/popup-dialog-email/src/templates/popup-dialog-email.html",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/media.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/notification.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/appreminder.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/appointment.py",
+		"/home/laurent/Optiflows/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/storage-wings-profile@1.service.j2",
+		"/home/laurent/Optiflows/src/nyuki-smtp/smtp_sender.py",
+		"/home/laurent/Optiflows/src/nyuki-smtp/smtp.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/tests/notification_test.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/tests/appointment_test.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/tests/appreminder_test.py",
+		"/home/laurent/Optiflows/src/nyuki-dashboard/dashboard.py",
+		"/home/laurent/Optiflows/src/nyuki-appreminder/v4.sublime-project",
+		"/home/laurent/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/laurent/Downloads/MailVengeance.html",
+		"/home/laurent/src/wings-appreminder/app/src/templates/schedules.html",
+		"/home/laurent/src/nyuki-idshost/conf.json",
+		"/home/laurent/src/nyuki-idshost/apiwrapper/log.py",
+		"/home/laurent/src/nyuki-hlseven/conf.json",
+		"/home/laurent/src/nyuki/nyuki/bus.py",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/hlsevenconf.json.j2",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/group_vars/all",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/appreminderconf.json.j2",
+		"/home/laurent/src/nyuki-idshost/apiwrapper/__init__.py",
+		"/home/laurent/src/nyuki-idshost/apiwrapper/pki.py",
+		"/home/laurent/src/nyuki-idshost/apiwrapper/unit.py",
+		"/home/laurent/src/nyuki-idshost/idshost.py",
+		"/home/laurent/src/wings-appreminder/app/src/schedules-controller.js",
+		"/home/laurent/src/wings-appreminder/app/i18n/locale_fr-fr.json",
+		"/home/laurent/src/nyuki-appreminder/appreminder.py",
+		"/home/laurent/src/nyuki-idshost/swagger.json",
+		"/home/laurent/src/nyuki-appreminder/schedule.py",
+		"/home/laurent/src/nyuki-appreminder/service.py",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/idshostconf.json.j2",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/infobipconf.json.j2",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/dashboardconf.json.j2",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/tasks/main.yml",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/authconf.json.j2",
+		"/home/laurent/src/nyuki-appreminder/tests/appreminder_test.py",
+		"/home/laurent/src/nyuki-appreminder/tests/service_test.py",
+		"/home/laurent/src/nyuki-appreminder/swagger.json",
+		"/home/laurent/src/install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/smtpconf.json.j2",
+		"/home/laurent/src/nyuki-dashboard/conf.json",
+		"/home/laurent/src/nyuki-dashboard/dashboard.py",
+		"/home/laurent/src/nyuki-idshost/ids_api_wrapper.py",
+		"/home/laurent/src/wings-components/lib/services/popup-dialog/src/popup-dialog-service.js",
+		"/home/laurent/src/wings-components/lib/services/popup-dialog-sms/src/popup-dialog-sms-service.js",
+		"/home/laurent/src/wings-idshost/app/app.js",
+		"/home/laurent/src/nyuki-idshost/tests/idshost_test.py",
+		"/home/laurent/src/wings-appreminder/app/src/notices-controller.js",
+		"/home/laurent/src/wings-components/lib/components/notification-card/src/notification-card-controller.js",
+		"/home/laurent/src/wings-appreminder/app/src/templates/notifications.html",
+		"/home/laurent/src/wings-components/lib/components/notification-card/src/notification-card-directive.js",
+		"/home/laurent/src/nyuki-auth/auth.py",
+		"/home/laurent/src/nyuki-auth/tests/auth_test.py",
+		"/home/laurent/src/nyuki-hlseven/simhl7.py",
+		"/home/laurent/src/nyuki-auth/ldap.py",
+		"/home/laurent/src/wings-components/lib/components/app-selector/src/templates/app-selector.html",
+		"/home/laurent/src/v4.sublime-project",
+		"/home/laurent/src/wings-users/app/i18n/locale_en-gb.json",
+		"/home/laurent/src/wings-components/lib/components/header/src/templates/header.html",
+		"/home/laurent/src/wings-appreminder/app/index.html",
+		"/home/laurent/src/wings-components/lib/components/header/src/header.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/laurent/Projects/PokeCrawl/pgoapi",
+			"/home/laurent/Projects/PokeCrawl/pgoapi/pgoapi",
+			"/home/laurent/Optiflows/src/install-machine/export_INF_12",
+			"/home/laurent/Optiflows/src/wings-workflow/app/src",
+			"/home/laurent/Optiflows/src/wings-workflow/app/src/scripts",
+			"/home/laurent/Optiflows/src/nyuki/nyuki",
+			"/home/laurent/Optiflows/src/tukio",
+			"/home/laurent/Optiflows/src/nyuki-workflow",
+			"/home/laurent/Optiflows/src/nyuki-appreminder",
+			"/home/laurent/Optiflows/IDS/design_authentication/ar.surycat.com",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/nyuki-infobip",
+			"/home/laurent/src/nyuki-appreminder",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-appreminder/app/src",
+			"/home/laurent/src/wings-components/lib/components/notification-card",
+			"/home/laurent/src/nyuki/nyuki",
+			"/home/laurent/src/wings-appreminder/app/src",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/wings",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-components",
+			"/home/laurent/src/wings-appreminder",
+			"/home/laurent/src/wings-appreminder/app/src",
+			"/home/laurent/src",
+			"/home/laurent/src/wings-appreminder/app/src/styles",
+			"/home/laurent/src/install-machine",
+			"/home/laurent/src/nyuki-idshost",
+			"/home/laurent/src/nyuki",
+			"/home/laurent/src/",
+			"/home/laurent/src/install-machine",
+			"/home/laurent/src/nyuki-ids-auth",
+			"/home/laurent/src/",
+			"/home/laurent/src/nyuki-appreminder",
+			"/home/laurent/src/wings-appointment-reminder",
+			"",
+			"/home/laurent/src/nyuki-appreminder",
+			"/home/laurent/src/wings-appointment-reminder",
+			"/home/laurent/src/nyuki-appreminder",
+			"/home/laurent/src/wings-components/app/components",
+			"/home/laurent/src/wings-appointment-reminder/app/applications/appointment-reminder/src",
+			"/home/laurent/src/wings-components/app/components/notification-card/src",
+			"/home/laurent/src/nyuki-auth",
+			"/home/laurent/src/nyuki-appreminder",
+			"/home/laurent/Optiflows/wings/app",
+			"/home/laurent/Optiflows/wings-appointment-reminder/app/applications/appointment-reminder/src/styles",
+			"/home/laurent/Optiflows/wings-appointment-reminder/app/applications/appointment-reminder",
+			"/home/laurent/Optiflows/wings-appointment-reminder",
+			"/home/laurent/Optiflows/wings-appointment-reminder/app/applications/appointment-reminder/src/styles",
+			"/home/laurent/Optiflows/wings-appointment-reminder",
+			"/home/laurent/Optiflows/wings",
+			"/home/laurent/Optiflows/wings-appointment-reminder",
+			"/home/laurent/Optiflows/wings-appointment-reminder/app/applications/appointment-reminder",
+			"/home/laurent/Optiflows/nyuki",
+			"/home/laurent/Optiflows/nyuki-appointment-reminder",
+			"/home/laurent/Optiflows/wings-appointment-reminder",
+			"/home/laurent/Optiflows/wings-appointment-reminder/app/applications/appointment-reminder",
+			"/home/laurent/Optiflows/wings-components",
+			"/home/laurent/Optiflows/wings",
+			"/home/laurent/Optiflows/wings/app/applications/dashboard",
+			"/home/laurent/Optiflows/wings/app/applications",
+			"/home/laurent/Optiflows/wings/app/applications/dashboard",
+			"/home/laurent/Optiflows/wings-components/app/services/popup-dialog",
+			"/home/laurent/Optiflows",
+			"/home/laurent/Optiflows/wings/app",
+			"/home/laurent/Optiflows/fluffy",
+			"/home/laurent/Optiflows/wings",
+			"/home/laurent/Optiflows/wings-components/app/components/notification-card/src/notification-card-controller.js",
+			"/home/laurent/Optiflows/fluffy/fluffy/workflow",
+			"/home/laurent/Optiflows/burrow/burrow",
+			"/home/laurent/Optiflows/burrow/burrow/agent",
+			"/home/laurent/Optiflows/burrow/burrow/agent/email",
+			"/home/laurent/Optiflows",
+			"/home/laurent/Optiflows/burrow/",
+			"/home/laurent/Optiflows/burrow/burrow/utils",
+			"/home/laurent/Optiflows/burrow/burrow/bus",
+			"/home/laurent/Optiflows/burrow/burrow/agent/workflow",
+			"/home/laurent/Optiflows/burrow/burrow",
+			"/home/laurent/Optiflows/surycat-common",
+			"/home/laurent/Optiflows/surycat-common/surycat_common",
+			"/home/laurent/Optiflows",
+			"/home/laurent/Optiflows/wings",
+			"/home/laurent/Optiflows/wings/app/applications/general-settings",
+			"/home/laurent/Optiflows/wings-components/app/components/notification-card",
+			"/home/laurent/Optiflows/surycat-appointment-reminder/nyuki/app_reminder",
+			"",
+			"/home/laurent/Optiflows/wings/app",
+			"/home/laurent/Optiflows/burrow",
+			"/home/laurent/Optiflows/nyuki/nyuki",
+			"/home/laurent/Optiflows/burrow",
+			"/home/laurent/Optiflows/wings/app/applications",
+			"/home/laurent/Optiflows/surycat-common/surycat_common",
+			"/home/laurent/Optiflows/surycat-debian",
+			"/home/laurent/Optiflows/burrow",
+			"/home/laurent/Optiflows/surycat-debian",
+			"/home/laurent/Optiflows/surycat-debian/files/asterisk",
+			"/home/laurent/Optiflows/burrow",
+			"/home/laurent/Optiflows/surycat-debian",
+			"/home/laurent/Optiflows/burrow",
+			"/home/laurent/Optiflows",
+			"/home/laurent/Optiflows/optiflows-wiki",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"5148948905716433469",
+			"1217121986412507005",
+			"get_cell_ids",
+			"cell_ids",
+			"get_cell",
+			"encode",
+			"get_pos_by_name",
+			"ts = item[\"forts\"]\n        for fort in forts:\n            if 'active_fort_modifier' in fort:\n                fort['active_fort_modifier'] = fort['active_fort_modifier'].decode('utf-8')\n        try:\n            with open(\"cell_%s\" % item['s2_cell_id'], \"w\") as f:\n                f.write(json.dumps(item, sort_keys=True, indent=2))\n        except Exception as e:\n            print('error oin item %s' % i )\n            print(e)\n            print(item)\n        i = i + 1\n",
+			"1809295655965526477",
+			"nearb",
+			"nearby",
+			"util",
+			"get_pos_by_name",
+			"get_map_obje",
+			"PGoApi",
+			"get_map_objects",
+			"get_map",
+			"google",
+			"exception",
+			"reporting",
+			"Reporter",
+			"reporting",
+			"register_handler",
+			"reporting",
+			"report",
+			"push_mo_enabled",
+			"receiver_url",
+			"receiver_ur",
+			"auth_nyuki",
+			"auth",
+			"jwt",
+			"LineReceiver",
+			"handle_line\n",
+			"hl7",
+			"regroup",
+			"imezone",
+			"No handler was ready to authenticate",
+			"128",
+			"100",
+			"setSubmitted",
+			"NyukisService",
+			"getWork",
+			"getWorkflows",
+			"nyuki",
+			"getWork",
+			"getTempla",
+			"res.forEa",
+			"angular.for",
+			"false",
+			"_run_next_tas",
+			"_run_next",
+			"self._join_tas",
+			"data_re",
+			"print",
+			"format_checker",
+			"wf_interface",
+			"<<<",
+			"DuplicateWorkflowError",
+			"_tasks_by_id",
+			"_new_task",
+			"new_task_call",
+			"JoinTask",
+			"data_stashed",
+			"JoinHold",
+			"kwargs",
+			"failed to create task ",
+			"log",
+			"JoinTaskHolder",
+			"data_received",
+			"_new_task",
+			"new_task_call",
+			"TaskRegistry",
+			"new_task_call",
+			"_new_ta",
+			"checkInput",
+			"basicIn",
+			"escapeHtml",
+			"NYAR-75",
+			"dict",
+			"expired",
+			"AppReminder",
+			"UnsubscribedUser",
+			"inactive",
+			"inactie",
+			"self.bus.publ",
+			"action':",
+			"send_",
+			"publish",
+			"ouvell",
+			"renouvell",
+			"TITLE",
+			"images/surycat.png",
+			"TITLE",
+			"favicon",
+			"499",
+			"504",
+			"499",
+			"unknown_schedule_blacklist",
+			"update_schedules",
+			"delete",
+			"publish",
+			"Log",
+			"log",
+			"r ",
+			"amend",
+			"config",
+			"unknown_schedule_blacklist",
+			"Schedules",
+			"check_unused_schedule",
+			"handle_new_schedule",
+			"Schedules",
+			"Schedule",
+			"ScheduleHelper",
+			"nyuki",
+			"AppReminder",
+			"'] ",
+			"handle_new",
+			"handle_new_sc",
+			"handle_new_sched",
+			"handle_new_schedule",
+			"add_to_set__schedules",
+			"application_name",
+			"cached_sessionids",
+			"cached_tokens",
+			"cached_sessionids",
+			"organization_unit",
+			"configure",
+			"_muc_address"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"LoadWorkflowError",
+			"data_stash",
+			"images/logo_surycat_rvb_web_720_small.png",
+			"sms-count",
+			"source_ruler",
+			"source_muc",
+			"idshost",
+			"Idshost",
+			"idshost",
+			"ids-auth",
+			"idsauth",
+			"nyuki-ids-auth",
+			"{server_ip}",
+			"input_converter",
+			"input_data",
+			"_handle_input_request",
+			"_clean_input_data",
+			"irrelevant",
+			"service=\"000000000000000000000000\"",
+			"unknownScheduleBlacklist",
+			"notifications_delay",
+			"definitions/",
+			"#/",
+			"appreminder_postService",
+			"appreminder_service",
+			"appreminder_rules",
+			"appreminder_notice",
+			"appreminder_scheduledNotice",
+			"appreminder_template",
+			"appreminder_blacklisted",
+			"appreminder_config",
+			"appreminder_appointment",
+			"schedule",
+			"schedule_id",
+			"AppReminder",
+			"notification",
+			"_mongo_update_query_from_dict",
+			"popup-dialog",
+			"\"",
+			"PopupDialog",
+			"popupDialog",
+			"PopupDialog",
+			"'",
+			"popup-dialog",
+			"\"",
+			",):",
+			"NotificationCard",
+			"notificationCard",
+			"notification-card",
+			"NotificationCard",
+			"notificationCard",
+			"notification-card",
+			"self"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pgoapi/pokecli.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 55919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1643,
+								1643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3258.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pokecrawl/web/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1750,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1154,
+								1154
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9809,
+								9809
+							]
+						],
+						"settings":
+						{
+							"auto_indent": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_width": 2,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pokecrawl/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1215,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								580,
+								580
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "pokecrawl/web/points.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "pokecrawl/web/result.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6103,
+								6103
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5542.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pokecrawl/requirements.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								91,
+								91
+							]
+						],
+						"settings":
+						{
+							"auto_name": "pip install git+https://github.com/tejado/pgoapi",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "pokecrawl/pokecrawl.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3382,
+								3382
+							]
+						],
+						"settings":
+						{
+							"auto_name": "pokecrawl.py",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pokecrawl/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 288,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								288,
+								288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "pokecrawl.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 504,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								443,
+								443
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/home/laurent/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								382,
+								382
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "pokecrawl/conf.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 80,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"auto_name": "{",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "pokecrawl/pokemon.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 48655,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47665,
+								47665
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "pokecrawl/result.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2979,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "pokecrawl/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1096,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1045,
+								1045
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Theme - Afterglow/Prefs/Langs/Git.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 969.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "pokecrawl/cell_handler.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 538,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 16,
+					"file": "pgoapi/config.json.example",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 72.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.651335311573,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pokecrawl.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"wings-workflow/app/src/scripts/services/nyukis-service.js"
+			],
+			[
+				"restart",
+				"install-machine/setup/ansible/roles/ansible/files/ansible/client/roles/surycat/templates/restart-services.sh.j2"
+			],
+			[
+				"provision",
+				"surycat-common/surycat_common/db/surycat_config/management/commands/provisioning.py"
+			],
+			[
+				"beep.",
+				"burrow/beep.wav"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/src/v3.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Blacklisted",
+				"BlackListed"
+			]
+		],
+		"width": 476.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 538.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
